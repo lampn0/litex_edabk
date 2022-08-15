@@ -1,0 +1,13 @@
+[options]
+multilib = false
+picocrt = false
+atomic-ungetc = false
+thread-local-storage = false
+io-long-long = true
+format-default = integer
+includedir = picolibc/riscv32-unknown-elf/include
+libdir = picolibc/riscv32-unknown-elf/lib
+
+[properties]
+cross_file = ['/home/lam/data2/edabk/litex/fpga_101/lab004/build/software/libc/cross.txt']
+

@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at lab4.v(108): object "vexriscv" differs only in case from object "VexRiscv" in the same scope File: /home/lam/data2/edabk/litex/fpga_101/lab004/build/gateware/lab4.v Line: 108

@@ -1,0 +1,27 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (lin64) Build 2405991 Thu Dec  6 23:36:41 MST 2018
+| Date         : Tue May 17 00:08:22 2022
+| Host         : lam running 64-bit Ubuntu 20.04.4 LTS
+| Command      : report_utilization -hierarchical -file s004_switches_utilization_hierarchical_synth.rpt
+| Design       : s004_switches
+| Device       : 7k325tffg900-2
+| Design State : Synthesized
+---------------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++---------------+--------+------------+------------+---------+------+-----+--------+--------+--------------+
+|    Instance   | Module | Total LUTs | Logic LUTs | LUTRAMs | SRLs | FFs | RAMB36 | RAMB18 | DSP48 Blocks |
++---------------+--------+------------+------------+---------+------+-----+--------+--------+--------------+
+| s004_switches |  (top) |          1 |          1 |       0 |    0 |   0 |      0 |      0 |            0 |
++---------------+--------+------------+------------+---------+------+-----+--------+--------+--------------+
+
+

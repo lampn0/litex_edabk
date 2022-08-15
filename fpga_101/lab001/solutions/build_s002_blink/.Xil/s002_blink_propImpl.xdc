@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:/home/lam/data2/edabk/fpga_101/lab001/solutions/build_s002_blink/s002_blink.xdc rfile:../s002_blink.xdc id:1 order:EARLY} [current_design]
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+set_property LOC AB8 [get_ports {user_led}]
+set_property src_info {type:XDC file:1 line:9 export:INPUT save:INPUT read:READ} [current_design]
+set_property LOC K28 [get_ports {clk156_p}]
+set_property src_info {type:XDC file:1 line:13 export:INPUT save:INPUT read:READ} [current_design]
+set_property LOC K29 [get_ports {clk156_n}]
